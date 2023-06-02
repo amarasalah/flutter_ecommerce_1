@@ -1,6 +1,7 @@
 # ecommerce_flutter_1
 
-flutter big ecommerce project
+flutter big ecommerce project(in-progress) 
+every branch will have my progress 
 
 ## Getting Started
 
