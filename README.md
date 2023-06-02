@@ -1,6 +1,6 @@
 # ecommerce_flutter_1
 
-My frist flutter big project
+flutter big ecommerce project
 
 ## Getting Started
 
