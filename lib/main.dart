@@ -1,3 +1,4 @@
+import 'package:ecommerce_flutter_1/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ecommerce_flutter_1/views/screens/onboarding.dart';
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const OnBoarding(),
+      routes: routes,
     );
   }
 }
