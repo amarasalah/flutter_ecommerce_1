@@ -1,4 +1,4 @@
-import 'package:ecommerce_flutter_1/constants/color.dart';
+import 'package:ecommerce_flutter_1/core/constants/color.dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatelessWidget {

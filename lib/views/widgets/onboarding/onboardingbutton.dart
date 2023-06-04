@@ -1,4 +1,4 @@
-import 'package:ecommerce_flutter_1/constants/color.dart';
+import 'package:ecommerce_flutter_1/core/constants/color.dart';
 import 'package:ecommerce_flutter_1/controller/onboardingcontroller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -16,6 +16,7 @@ class CustomButtonOnboarding extends GetView<OnBoardingControllerImp> {
         color: AppColor.primaryColor,
         textColor: Colors.white,
         onPressed: () => {controller.next()},
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(25)),
         child: const Text("Continue"),
       ),
     );
